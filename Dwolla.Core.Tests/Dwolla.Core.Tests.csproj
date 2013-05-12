@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EnumerableExtensions\TryTests.cs" />
+    <Compile Include="Future\FuncConversionTests.cs" />
+    <Compile Include="Future\ValueConversionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

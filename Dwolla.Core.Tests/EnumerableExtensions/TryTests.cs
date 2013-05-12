@@ -1,12 +1,10 @@
-﻿using System;
-using System.Text;
-using System.Collections.Generic;
-using System.Linq;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-namespace Dwolla.Core.Tests.EnumerableExtensions
+﻿namespace Dwolla.Core.Tests.EnumerableExtensions
 {
-	[TestClass]
+    using System;
+    using System.Collections.Generic;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+    [TestClass]
 	public class TryTests
 	{
 		[TestMethod]
